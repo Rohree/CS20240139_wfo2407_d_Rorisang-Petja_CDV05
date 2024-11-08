@@ -1,6 +1,8 @@
-# my cv
+# my cv 
 
-## Usage
+[Link to cv](https://hello-rory-dev.netlify.app/)
+
+## Check-out the code
 
 ```
 git clone <this-repo>
